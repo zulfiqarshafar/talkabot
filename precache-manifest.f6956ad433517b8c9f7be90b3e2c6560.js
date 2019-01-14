@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/talkabot/static/js/runtime~main.dd7a0195.js"
   },
   {
-    "revision": "8c9ddfc6afb5a47056fa",
-    "url": "/talkabot/static/js/main.8c9ddfc6.chunk.js"
+    "revision": "94d38da96dddcfe0cada",
+    "url": "/talkabot/static/js/main.94d38da9.chunk.js"
   },
   {
     "revision": "39ef1c471419a3da2b8f",
     "url": "/talkabot/static/js/1.39ef1c47.chunk.js"
   },
   {
-    "revision": "8c9ddfc6afb5a47056fa",
-    "url": "/talkabot/static/css/main.b0276078.chunk.css"
+    "revision": "94d38da96dddcfe0cada",
+    "url": "/talkabot/static/css/main.3e8bc690.chunk.css"
   },
   {
-    "revision": "333a83ed2e4b155c199a0da2f7261b40",
+    "revision": "0e1bd665647967e004916c11463da308",
     "url": "/talkabot/index.html"
   }
 ];
