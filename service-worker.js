@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/talkabot/precache-manifest.99ced6434e8bba99ad333a1c6d8d0371.js"
+  "/talkabot/precache-manifest.86442bd16f4332f22a8da8ddcb942dbf.js"
 );
 
 workbox.clientsClaim();
