@@ -1,7 +1,7 @@
 {
   "main.css": "/talkabot/static/css/main.817271c6.chunk.css",
-  "main.js": "/talkabot/static/js/main.f4b36578.chunk.js",
-  "main.js.map": "/talkabot/static/js/main.f4b36578.chunk.js.map",
+  "main.js": "/talkabot/static/js/main.71f93b79.chunk.js",
+  "main.js.map": "/talkabot/static/js/main.71f93b79.chunk.js.map",
   "static/js/1.39ef1c47.chunk.js": "/talkabot/static/js/1.39ef1c47.chunk.js",
   "static/js/1.39ef1c47.chunk.js.map": "/talkabot/static/js/1.39ef1c47.chunk.js.map",
   "runtime~main.js": "/talkabot/static/js/runtime~main.dd7a0195.js",
@@ -10,6 +10,6 @@
   "static/media/minimize icon.svg": "/talkabot/static/media/minimize icon.dc9d0e20.svg",
   "static/media/close icon.svg": "/talkabot/static/media/close icon.6106f6fe.svg",
   "index.html": "/talkabot/index.html",
-  "precache-manifest.f01e3f2bf2a4d763d4eea592452b771c.js": "/talkabot/precache-manifest.f01e3f2bf2a4d763d4eea592452b771c.js",
+  "precache-manifest.06148cb0133971ec3c0009a7793d8b1c.js": "/talkabot/precache-manifest.06148cb0133971ec3c0009a7793d8b1c.js",
   "service-worker.js": "/talkabot/service-worker.js"
 }
